@@ -1,0 +1,41 @@
+.profile-sidebar {
+  padding: 20px 10px 10px 10px;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.125);
+}
+
+.profile-userpic {
+  text-align: center;
+}
+
+.profile-userpic img {
+float: none;
+margin: 0 auto;
+width: 50%;
+height: 50%;
+-webkit-border-radius: 50% !important;
+-moz-border-radius: 50% !important;
+border-radius: 50% !important;
+}
+
+.profile-usertitle {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.profile-usertitle-name {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 7px;
+}
+
+.profile-sidebar-footer {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.profile-sidebar-footer-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 7px;
+}
